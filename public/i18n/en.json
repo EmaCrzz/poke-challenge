@@ -1,0 +1,22 @@
+{
+    "colorSwitcher": {
+      "lightTitleLabel": "Use a ligth theme",
+      "lightAriaLabel": "A sun",
+      "standardTitleLabel": "Use the theme depending on your system configuration",
+      "standardAriaLabel": "Your system preferences",
+      "darkTitleLabel": "Use a darck theme",
+      "darkAriaLabel": "A moon"
+    },
+    "listPokemon": {
+      "title": "List of pokemons",
+      "loadMore": "Load more"
+    },
+    "detailPokemon": {
+        "type": "Type",
+        "weight": "Weight",
+        "height": "Height",
+        "ability": "Ability",
+        "experience": "Experience",
+        "buttonBack": "Back"
+    }
+  }

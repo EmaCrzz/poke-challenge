@@ -1,0 +1,28 @@
+.container-root {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 3rem;
+}
+
+.container-maxWidthLg {
+  max-width:  1280px;
+}
+.container-maxWidthMd {
+  max-width: 960px;
+}
+.container-maxWidthSm {
+  max-width: 600px;
+}
+.container-maxWidthXl {
+  max-width: 1920px;
+}
+.container-maxWidthXs {
+  max-width: 444px;
+}
+
+
+
+

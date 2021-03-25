@@ -1,0 +1,23 @@
+{
+    "colorSwitcher": {
+        "lightTitleLabel": "Usa el tema claro",
+        "lightAriaLabel": "Un sol que invertido parece el malo de Doom",
+        "standardTitleLabel": "Usa el tema dependiendo tu configuración de sistema",
+        "standardAriaLabel": "Las preferencias de tu sistema",
+        "darkTitleLabel": "Usa el tema oscuro",
+        "darkAriaLabel": "Una luna con ojos sospechosos que parece que está tramando algo jodido"
+
+    },
+    "listPokemon": {
+        "title": "Lista de pokemones",
+        "loadMore": "Cargar siguientes"
+    },
+    "detailPokemon": {
+        "type": "Type",
+        "weight": "Peso",
+        "height": "Altura",
+        "ability": "Habilidad",
+        "experience": "Experiencia",
+        "buttonBack": "Volver"
+    }
+}

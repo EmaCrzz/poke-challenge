@@ -1,0 +1,16 @@
+.header {
+  padding-top: 8px;
+  display: flex;
+}
+
+.header-img {
+  height: 55px;
+  display: block;
+  margin: auto;
+}
+
+@media (max-width: 450px) {
+  .header-img {
+    height: 45px;
+  }
+}

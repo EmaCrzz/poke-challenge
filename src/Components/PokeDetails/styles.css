@@ -1,0 +1,56 @@
+.poke-detail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(205px, 1fr));
+  grid-gap: 24px;
+  margin: 2rem 0;
+}
+
+.container-img img{
+  width: 100%;
+  height: auto;
+}
+
+@supports(object-fit: cover){
+  .container-img img{
+    height: 90%;
+    object-position: center center;
+  }
+}
+
+.info {
+  padding: 1rem;
+  border-radius: 8px;
+  border: 2px solid var(--app-border-color);
+}
+
+.title {
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.types {
+  padding-bottom: .5rem;
+}
+
+.type {
+  margin-right: .5rem;
+  font-weight: bolder;
+  font-size: larger;
+  padding: .5rem;
+  border-radius: 2rem;
+}
+
+.flex {
+  justify-content: space-between;
+  display: flex;
+}
+
+.alig-end {
+  text-align: end;
+}
+
+@media (max-width: 450px) {
+  .type {
+    font-size: medium;
+  }
+}
